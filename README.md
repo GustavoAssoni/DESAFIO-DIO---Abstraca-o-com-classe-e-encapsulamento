@@ -17,17 +17,17 @@ Siga as seguintes regras para implementar
    - Para valores acima de R$500,00 o cheque especial deve ser de 50% do valor depositado;
    - Caso o limite de cheque especial seja usado, assim que possível a conta deve cobrar uma taxa de 20% do valor usado do cheque especial.
 
---------
+--------------------------------------------------------------------------------------------------------------
 
-# Projeto Conta Bancária - Java POO 💰
+# Projeto Conta Bancária - Java POO 
 
 Projeto desenvolvido para praticar Programação Orientada a Objetos em Java.
 Contém métodos de saque, depósito, pagamento de boletos e uso de cheque especial.
 
 ## Tecnologias
-- Java 22
-- POO
-- IntelliJ IDEA / VS Code
+- `Java 22`
+- `IntelliJ IDEA`
+- `Git e GitHub`
 
 ## Autor
 [Gustavo Assoni](https://github.com/GustavoAssoni)
