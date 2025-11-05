@@ -24,10 +24,15 @@ Siga as seguintes regras para implementar
 Projeto desenvolvido para praticar Programação Orientada a Objetos em Java.
 Contém métodos de saque, depósito, pagamento de boletos e uso de cheque especial.
 
+###Pontos importantes do projeto!
+busquei ajuda pra aplicar os conceitos na Main de uma forma mais interativa, por esse motivo a Main foi usado SwitchCase e também ficou com essas opções e tudo mais 
+
 ## Tecnologias
 - `Java 22`
 - `IntelliJ IDEA`
 - `Git e GitHub`
+
+##Imagens do console + interatividade
 
 ## Autor
 [Gustavo Assoni](https://github.com/GustavoAssoni)
