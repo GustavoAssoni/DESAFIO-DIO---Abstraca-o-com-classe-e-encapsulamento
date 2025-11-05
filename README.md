@@ -32,7 +32,17 @@ busquei ajuda pra aplicar os conceitos na Main de uma forma mais interativa, por
 - `IntelliJ IDEA`
 - `Git e GitHub`
 
-##Imagens do console + interatividade
+# Imagens do console + interatividade
+## Como ficou o console:
+<img width="1913" height="589" alt="Image" src="https://github.com/user-attachments/assets/83e85cdc-99c3-4a19-b9d0-8d39874fbc8a" />
+
+## Qual a entrada pra criação do objeto pra fazer sentido os números
+<img width="1248" height="924" alt="Image" src="https://github.com/user-attachments/assets/def887f2-06d8-41f6-8b00-d3b9bcf5da98" />
+
+# Mostrando interatividade do console
+<img width="630" height="844" alt="Image" src="https://github.com/user-attachments/assets/35b2f723-ab34-47d8-902c-c3f9de0cda00" />
+<img width="638" height="842" alt="Image" src="https://github.com/user-attachments/assets/f62393ec-00a5-4225-bb1a-1f289ef7320c" />
+
 
 ## Autor
 [Gustavo Assoni](https://github.com/GustavoAssoni)
